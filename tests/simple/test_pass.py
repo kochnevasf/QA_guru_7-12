@@ -34,3 +34,5 @@ def test_pass6():
 @allure.label('owner', 'github')
 def test_pass7():
     pass
+
+#--alluredir=allure-results
